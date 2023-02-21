@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MARSDK_APPSTORECOMMENTS_Tests' do
+  pod 'MARSDK_APPSTORECOMMENTS', :path => '../'
+  
+  
+end
